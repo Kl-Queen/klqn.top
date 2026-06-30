@@ -2,7 +2,7 @@
 title: 如果原神抄袭了AnotherMe，会产生什么后果
 published: 2026-06-30
 description: ！？原A  ？！
-image: "[[cover4.jpg]]"
+image: ./images/cover4.png
 tags:
   - AnotherMe
 category: AnotherMe

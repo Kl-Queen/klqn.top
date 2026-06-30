@@ -15,11 +15,11 @@ lang: ""
 你可以直接去[Kl-Queen/aseprite-builder](https://github.com/Kl-Queen/aseprite-builder/releases/tag/v1.3.17.2)下载我已经编译好的程序。如果你想自己编译最新版本的Aseprite，请看下文。
 # 将Aseprite-builder Fork到自己仓库
 打开[Aseprite-builder](https://github.com/a1393323447/aseprite-builder)项目，点击Fork
-![[aseprite-fork.png]]
+![[./images/aseprite-fork.png]]
 # 用Github Action编译源码
 打开你刚刚Fork的仓库（不是原项目，是你Fork的自己的仓库）
-![[aseprite-action.png]]
+![[./images/aseprite-action.png]]
 然后依次点击以下按钮：（如果你是Mac用户就点击Mac那个）
-![[aseprite-final.png]]
+![[./images/aseprite-final.png]]
 最后点击Run workflow
 差不多要编译十几分钟，然后去releases页面就能看到了。
